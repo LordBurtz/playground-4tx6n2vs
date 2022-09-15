@@ -15,6 +15,10 @@ System.out.println(message);
 //{ autofold
 }
 
+public static void printArray(Object o) {
+    System.out.println(Arrays.toString(o));
+}
+
 }
 //}
 ```
